@@ -60,8 +60,7 @@
 - 타인으로 판단되면 음성 인증 실패 → 비밀번호 인증 단계로 전환
 
 ### 💡 공과금 납부
-<img width="500" src="README_assets/bill.gif">
-
+<img width="500" src="https://github.com/user-attachments/assets/13529698-e358-43be-8eac-c2bdddad62e0"><br>
 - OCR로 공과금 납부
 
 ### 📲 FCM 알림
