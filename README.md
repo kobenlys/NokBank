@@ -1,6 +1,6 @@
 ## 💡 프로젝트 소개
 
-![main](README_assets/main.png)
+<img width="1585" alt="main" src="https://github.com/user-attachments/assets/c516fbc0-e5f4-4735-af53-586cf56ce7ba" />
 
 ### ⚙ 개요
 
